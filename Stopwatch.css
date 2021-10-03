@@ -1,0 +1,28 @@
+#heading{
+    text-align:center;
+    font-size:72px;
+}
+#heading:hover{
+    box-shadow:1px 3px 5px black;
+    background-color: blueviolet;
+}
+.container{
+    height: 300px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+    font-size: 72px;
+    text-align: center;
+    margin: 0px auto;
+    color:rgb(105, 3, 3);
+    
+}
+#display:hover{
+    box-shadow:1px 3px 5px black;
+}
+.buttons{
+    text-align:center;
+
+}
